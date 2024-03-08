@@ -32,7 +32,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #f8234a;
+  color: #00A251;
   outline: none;
   text-decoration: none;
 }
@@ -95,7 +95,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #f94a6a;
+  background: #00A251;
   color: #fff;
 }
 
@@ -1666,4 +1666,8 @@ html ::-webkit-scrollbar-thumb {
 }
 html ::-webkit-scrollbar-track {
   background: #ededed7d;
+}
+
+.bgC{
+  background-color: #44454521;
 }
